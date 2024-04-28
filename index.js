@@ -64,7 +64,7 @@ inquirer.prompt(questions).then((answers) => {
   }
 
 let x = 150, y = 120;
-if (shape === 'Traingle') {
+if (shape === 'Triangle') {
   y = 135;
 } else if (shape === 'Square'){
 y=145;
@@ -79,6 +79,3 @@ fs.writeFileSync('logo.svg', finalSvg);
 console.log('Generated log.svg');
 
 });
-
-
-
