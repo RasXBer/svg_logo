@@ -1,6 +1,6 @@
 # 10 Object-oriented Programming: SVG Logo Maker
 
-## user story
+## User story
 
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
@@ -25,11 +25,13 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Installation
-npm i
-npm install inquirer jest
-npm install --save inquirer@^8.2.4
+
+* npm i
+* npm install inquirer jest
+* npm install --save inquirer@^8.2.4
 
 ## Tests
+
 Unit Testing
 
 ## Code
